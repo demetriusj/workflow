@@ -1,0 +1,24 @@
+{
+  "name": "workflow",
+  "description": "Insanely simple dynamic workflow engine with support for distributed and persistent workflows. The usual parallel, series, branch, fsm, trigger, rules, and more.",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:demetriusj/workflow.git"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "files": [
+    ""
+  ],
+  "homepage": "demetriusj.com",
+  "author": "Demetrius Johnson <contact@demetriusj.com> (demetriusj.com)",
+  "main": "lib/workflow.js",
+  "scripts": {
+    "test": "test"
+  }
+}
